@@ -1,7 +1,0 @@
-test
-to
-see
-if I can use turtoiseGit to push to gitHub.
-kerker
-
-let's add some other words at 20171002.
